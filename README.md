@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <h1> Welcome to Onur Demirkilic's Github <img width=75> </h1>
 <a href="https://github.com/onurdemirkilic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saizzou&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onurdemirkilic&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
   <a href="https://github.com/onurdemirkilic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saizzou&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdemirkilic&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
   <br>
    Helloooo Worllld.
